@@ -2,5 +2,6 @@
 
 set -e
 
+gem update --system
 gem install bundler
 bundle install
