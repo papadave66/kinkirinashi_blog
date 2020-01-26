@@ -2,8 +2,6 @@
 
 set -e
 
-gem install rubygems-update
-update_rubygems
 gem update --system
 gem install bundler
 bundle install
