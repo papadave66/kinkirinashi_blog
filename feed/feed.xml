@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>金霧梨学園高校</title>
+        <description>位于辽宁省鞍山市</description>
+        <link>papadave66.github.io/kinkirinashi_blog</link>
+        <atom:link href="papadave66.github.io/kinkirinashi_blog/feed.xml" rel="self" type="application/rss+xml" />
+        
+            <item>
+               <title>Hydrogen update</title>
+               <description>&lt;p&gt;Hydrogen 1.1.0更新&lt;/p&gt;
+
+&lt;p&gt;更新内容&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;ol&gt;
+    &lt;li&gt;
+      &lt;p&gt;置顶功能&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;p&gt;支持MathJax&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;p&gt;修复Chrome地址栏主题色不同步问题&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;现在可以于&lt;a href=&quot;/config/infor.html&quot;&gt;主题配置&lt;/a&gt;处检查配置项，如配置正确可删除&lt;code class=&quot;highlighter-rouge&quot;&gt;/config/infor.html&lt;/code&gt;文件&lt;/p&gt;
+</description>
+               <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+               <link>papadave66.github.io/kinkirinashi_blog/2019/07/20/update.html</link>
+               <guid isPermaLink="true">papadave66.github.io/kinkirinashi_blog/2019/07/20/update.html</guid>
+               </item>
+        
+            <item>
+               <title>Hello World!</title>
+               <description>&lt;p&gt;Welcome to Hydrogen!&lt;br /&gt;If you saw this post, your blog has been successfully deployed.So enjoy the fun of writing now!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hello Hydrogen!&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+               <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+               <link>papadave66.github.io/kinkirinashi_blog/2017/12/23/hello-world.html</link>
+               <guid isPermaLink="true">papadave66.github.io/kinkirinashi_blog/2017/12/23/hello-world.html</guid>
+               </item>
+        
+    </channel>
+</rss>
