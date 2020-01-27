@@ -18,7 +18,7 @@ paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
 background: "https://i.loli.net/2020/01/26/MAosITruBQp2X4i.jpg"
-theme_color: 546E7A
+theme_color: 831308
 
 google_analytics: "UA-156928631-1"
 # hydrogen-blog date format
