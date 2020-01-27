@@ -17,7 +17,7 @@ PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议�
 paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
-background: "https://i.loli.net/2020/01/27/nkPsOA9BhM5VzQf.jpg"
+background: "https://i.loli.net/2020/01/27/PXacNEbHB4A9Vef.jpg"
 theme_color: 831308
 
 google_analytics: "UA-156928631-1"
